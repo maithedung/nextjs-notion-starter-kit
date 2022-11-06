@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'maithedungg',
   github: 'maithedung',
-  linkedin: 'fisch2',
+  linkedin: 'maithedung',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -30,7 +30,7 @@ export default siteConfig({
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   // whether or not redis is enabled for caching generated preview images (optional)
   // NOTE: if you enable redis, you need to set the `REDIS_HOST` and `REDIS_PASSWORD`
