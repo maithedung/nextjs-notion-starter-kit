@@ -21,12 +21,12 @@ export default siteConfig({
   github: 'maithedung',
   linkedin: 'maithedung',
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'schoolXedu', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
-  defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
+  defaultPageIcon: 'https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/243943237_370909634748025_7480659804088447008_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=uhta9x_ZXxcAX9nVd3Y&_nc_ht=scontent.fdad3-5.fna&oh=00_AfDXQgUfoSSXX8YDgn0BVgvAyr8rf1uvWAgYX68Gr5QBOw&oe=636C48F1',
+  defaultPageCover: 'https://scontent.fdad3-1.fna.fbcdn.net/v/t39.30808-6/241550779_372991371206518_9076249130238549616_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=QA-8rUTFlc4AX-d83GN&_nc_ht=scontent.fdad3-1.fna&oh=00_AfByWifzAv74Mixk4Bbm84ny7JEN03HjtDYac9GjdXdDrA&oe=636D0E65',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -55,13 +55,13 @@ export default siteConfig({
   // important pages
   navigationStyle: 'custom',
   navigationLinks: [
-    {
-      title: 'About',
-      pageId: '8d0062776d0c4afca96eb1ace93a7538'
-    },
-    {
-      title: 'Contact',
-      pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
-    }
+    // {
+    //   title: 'About',
+    //   pageId: '8d0062776d0c4afca96eb1ace93a7538'
+    // },
+    // {
+    //   title: 'Contact',
+    //   pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
+    // }
   ]
 })
