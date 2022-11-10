@@ -59,9 +59,13 @@ export default siteConfig({
     //   title: 'About',
     //   pageId: '8d0062776d0c4afca96eb1ace93a7538'
     // },
-    // {
-    //   title: 'Contact',
-    //   pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
-    // }
+    {
+      title: 'Resume',
+      pageId: '316d2281788c49009b702dd45c47ba15'
+    },
+    {
+      title: 'Contact',
+      pageId: '99228bd65b144b20831d11e5857b89e0'
+    }
   ]
 })
